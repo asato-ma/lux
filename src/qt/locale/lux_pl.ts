@@ -177,47 +177,47 @@
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+42"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</translation>
+        <translation>Wprowadź nowe hasło do portfela.&lt;br/&gt;Użyj hasła z &lt;b&gt;10 lub więcej losowymi znakami&lt;/b&gt;, lub &lt;b&gt;8 lub więcej słów&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Encrypt wallet</source>
-        <translation>Encrypt wallet</translation>
+        <translation>Zaszyfruj portfel</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>This operation needs your wallet passphrase to unlock the wallet.</translation>
+        <translation>Ta operacja wymaga podania hasła do portfela, aby odblokować portfel. </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Unlock wallet</translation>
+        <translation>Odblokuj portfel</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>This operation needs your wallet passphrase to decrypt the wallet.</translation>
+        <translation>Ta operacja wymaga podania hasła do portfela, aby odszyfrować portfel.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Decrypt wallet</translation>
+        <translation>Odszyfruj portfel</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Change passphrase</translation>
+        <translation>Zmień hasło</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Enter the old and new passphrase to the wallet.</translation>
+        <translation>Wprowadź stare i nowe hasło.</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Confirm wallet encryption</source>
-        <translation>Confirm wallet encryption</translation>
+        <translation>Potwierdź zaszyfrowanie portfela</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -227,7 +227,7 @@
     <message>
         <location line="-8"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Are you sure you wish to encrypt your wallet?</translation>
+        <translation>Czy jesteś pewien, że chcesz zaszyfrować portfel?</translation>
     </message>
     <message>
         <location line="+0"/>
